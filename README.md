@@ -1,4 +1,5 @@
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Data Engineer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 
 <!--
 **jay-dit/jay-dit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
